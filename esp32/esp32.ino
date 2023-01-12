@@ -1,5 +1,5 @@
 #define BLYNK_TEMPLATE_ID           "YOUR_TEMPLATE_ID"
-#define BLYNK_DEVICE_NAME           "Water Tank"
+#define BLYNK_DEVICE_NAME           "YOUR_DEVICE_NAME"
 #define BLYNK_AUTH_TOKEN            "YOUR_AUTH_TOKEN"
 
 const int RELAY_PIN = 18;  // the Arduino pin, which connects to the IN pin of relay
