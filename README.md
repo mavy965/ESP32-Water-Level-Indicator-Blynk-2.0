@@ -1,9 +1,6 @@
 
 # [ESP32] Water Level Indicator
 
-A brief description of what this project does and who it's for
-
-
 ## Parts Used
 
  - [ESP32](https://www.espressif.com/en/products/socs/esp32)
